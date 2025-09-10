@@ -1,0 +1,14 @@
+D:\Facultad Gastón\TL2\tl2-tp3-2025-GastonGutierrezLlomplat\bin\Debug\net9.0\tl2-tp3-2025-GastonGutierrezLlomplat.exe
+D:\Facultad Gastón\TL2\tl2-tp3-2025-GastonGutierrezLlomplat\bin\Debug\net9.0\tl2-tp3-2025-GastonGutierrezLlomplat.deps.json
+D:\Facultad Gastón\TL2\tl2-tp3-2025-GastonGutierrezLlomplat\bin\Debug\net9.0\tl2-tp3-2025-GastonGutierrezLlomplat.runtimeconfig.json
+D:\Facultad Gastón\TL2\tl2-tp3-2025-GastonGutierrezLlomplat\bin\Debug\net9.0\tl2-tp3-2025-GastonGutierrezLlomplat.dll
+D:\Facultad Gastón\TL2\tl2-tp3-2025-GastonGutierrezLlomplat\bin\Debug\net9.0\tl2-tp3-2025-GastonGutierrezLlomplat.pdb
+D:\Facultad Gastón\TL2\tl2-tp3-2025-GastonGutierrezLlomplat\obj\Debug\net9.0\tl2-tp3-2025-GastonGutierrezLlomplat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad Gastón\TL2\tl2-tp3-2025-GastonGutierrezLlomplat\obj\Debug\net9.0\tl2-tp3-2025-GastonGutierrezLlomplat.AssemblyInfoInputs.cache
+D:\Facultad Gastón\TL2\tl2-tp3-2025-GastonGutierrezLlomplat\obj\Debug\net9.0\tl2-tp3-2025-GastonGutierrezLlomplat.AssemblyInfo.cs
+D:\Facultad Gastón\TL2\tl2-tp3-2025-GastonGutierrezLlomplat\obj\Debug\net9.0\tl2-tp3-2025-GastonGutierrezLlomplat.csproj.CoreCompileInputs.cache
+D:\Facultad Gastón\TL2\tl2-tp3-2025-GastonGutierrezLlomplat\obj\Debug\net9.0\tl2-tp3-2025-GastonGutierrezLlomplat.dll
+D:\Facultad Gastón\TL2\tl2-tp3-2025-GastonGutierrezLlomplat\obj\Debug\net9.0\refint\tl2-tp3-2025-GastonGutierrezLlomplat.dll
+D:\Facultad Gastón\TL2\tl2-tp3-2025-GastonGutierrezLlomplat\obj\Debug\net9.0\tl2-tp3-2025-GastonGutierrezLlomplat.pdb
+D:\Facultad Gastón\TL2\tl2-tp3-2025-GastonGutierrezLlomplat\obj\Debug\net9.0\tl2-tp3-2025-GastonGutierrezLlomplat.genruntimeconfig.cache
+D:\Facultad Gastón\TL2\tl2-tp3-2025-GastonGutierrezLlomplat\obj\Debug\net9.0\ref\tl2-tp3-2025-GastonGutierrezLlomplat.dll
